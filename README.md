@@ -1,0 +1,2 @@
+# kuiddcare
+plataforma de cuidado
